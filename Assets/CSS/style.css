@@ -169,5 +169,6 @@ main {
 
 /* Styles for screens larger than 1200px */
 @media (min-width: 1200px) {
-  body {
-    font-size: 18px;
+  body {   
+     font-size: 18px;
+  }}
